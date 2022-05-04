@@ -1,0 +1,8 @@
+Aby wykonać terminate należy napisać :
+java NetworkClient Terminate -tcpport 9000 -gateway localhost 
+
+Aby podłączyć się i podać dane:
+
+java NetworkNode -ident 123 -tcpport 9000 -gateway localhost A:5 C:3
+
+
